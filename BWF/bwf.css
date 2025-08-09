@@ -1,0 +1,250 @@
+/* maineading and icon has been used up here */
+.mainHeading{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: white;
+    padding:5px;
+    margin: 5px;
+    font-size: x-small;
+    max-height: 25px;
+    
+}
+.Paris{
+    margin-left: 50px;
+}
+.BWT{
+    margin-left: 50px;
+}
+.TE{
+    margin-left: 50px;
+}
+.nav-linkdropdown-toggle{
+    margin-left: 50px;
+}
+
+.more{
+    margin-left: 50px;
+}
+
+.icon{
+    display: flex;
+    font-size: medium;
+    margin-left: 20px;
+}
+
+.fa-brands
+{
+    margin-left: 50px;
+}
+
+/* headingtwo style is been is used here */
+.headingTwo{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: red; 
+    position: sticky;  
+    color: white;
+    border: 5px;
+    border-top: 5px;
+    max-height: 30px;
+}
+.bwfLogo{
+    transition: .5s transform ease-in-out;
+    width:48px;
+    margin-top:45px;
+    margin-top: 65px;
+    padding: 0%;
+    position: relative;
+    overflow: hidden;
+    height: 100px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.head{
+    margin-left: 30px;
+}
+.seachIcon{
+    margin-left: 200px;
+}
+img{
+    padding: 0px;
+}
+
+.thirdHeading{
+    display: flex;
+    position: -webkit-sticky;
+    position: sticky;
+    background-color: brown;
+    color: white;
+    margin-bottom: 0px;
+    height: 25px;
+}
+.next{
+    position: sticky;
+    margin-left: 480px;
+}
+
+/* image section */
+.lable{
+    color: white;
+}
+.para{
+    color:white;
+}
+ /* latest stories section */
+.ThirdSectionTitle{
+    text-align: center;
+    justify-content: center;
+    font-size: large;
+    font-weight: bolder;
+    height: 45px;
+    padding: 0px;
+}
+/* Below the latest stores */
+.thirdSectionImg
+{
+    display: flex;
+    justify-content: center;
+}
+img{
+    margin-bottom: 10px;
+}
+.featured{
+    background-color: red;
+    color: white;
+    margin-left: 40px;
+    height: 30px;
+}
+.World{
+    color: black;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.korea{
+    color: black;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+/* latest stories images has been used here */
+.thirdSectionHeading{
+    display: flex;
+    justify-content: center;
+}
+.momo{
+    max-width: auto;
+}
+.lzj{
+    margin-left: 5px;
+}
+.tai{
+    margin-left: 5px;
+}
+
+/* all news section css is used here */
+.news{
+    text-align: center;
+    height: 50px;
+    padding: 0px;
+}
+/* background image */
+.olympicsBackground{
+    background-image: url(olympic\ tty.avif);
+    color: white;
+    text-align: center;
+    /* padding: 50px;
+    height: 40px; */
+}
+.hsbcTournamentCard{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    margin-left: 10px;
+}
+.tournamentSchedule{
+    color: rgb(255, 253, 253);
+}
+/* partner image */
+.partnersImage{
+    display: flex;
+    justify-content: center;
+}
+.lining{
+    padding: 55px;
+    margin-left: 10px;
+}
+
+.victor{
+    margin-left: 30px;
+}
+/* partners */
+.partners{
+    text-align: center;
+    color: grey;
+}
+/* bacground colour */
+.space{
+    background-color: red;
+    height: 20px;
+}
+/* information about the page */
+.pageInfo{
+    background-color:  rgba(28, 27, 27, 0.907);
+}
+.pageInfoOne{
+    justify-content: center;
+    display: flex;
+}
+
+/* information abou the page heading */
+.info{
+    color: white;
+    margin-left: 220px;
+    padding: 10px;
+}
+/* quick links */
+.infoOne{
+    margin-right: 70px;
+}
+.homeOne{
+    margin-top: 30px;
+    font-size: x-small;
+    padding: 10px;
+}
+/* platforms */
+.homeTwo{
+    margin-top: 30px;
+    font-size: x-small;
+    padding: 10px;
+}
+/* confederations */
+.homeThree{
+    margin-top: 30px;
+    font-size: x-small;
+}
+/* BWF HQ CONTACT */
+.homeFour{
+    margin-top: 30px;
+    font-size: x-small;
+}
+
+/* logo bottom bwf */
+.bottomLogo{ 
+    margin-left: 220px;
+}
+
+/* ending content */
+.web{
+    display: flex;
+    color: white;
+    font-size: x-small;
+}
+#dig{
+    margin-left: 220px;
+}
+/* terms and conditon */
+#termsConditions{
+    margin-left: 900px;
+}
